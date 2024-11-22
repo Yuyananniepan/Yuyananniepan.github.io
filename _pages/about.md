@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Greetings! My name is Yuyan Pan (潘芋燕), and I am a Postdoctoral Researcher at Pennsylvania State University. My work leverages volume-delay function modeling and calibration, fundamental diagram and queueing theory, traffic demand management, traffic flow prediction, big data and machine learning, electrical vehicle, connected automated vehicle, and open-source transportation modeling software development.
+Greetings! My name is Yuyan Pan (潘芋燕), and I am a Postdoctoral Researcher at Pennsylvania State University. My work leverages volume-delay function modeling and calibration, fundamental diagram and queueing theory, traffic demand management, big data and machine learning, electrical vehicle, connected automated vehicle, and open-source transportation modeling software development.
 
 Research Interests
 ======
