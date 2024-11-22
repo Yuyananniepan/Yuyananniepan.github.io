@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I AM ANNIE
+Greetings! My name is Yuyan Pan (潘芋燕), and I am a Ph.D. Candidate at Beijing University of Technology. My research interests include volume-delay function modeling and calibration, fundamental diagram and queueing theory, traffic demand estimation, traffic flow prediction, big data and machine learning, and open-source transportation modeling software development.
+![image](https://github.com/user-attachments/assets/e2ae1ac8-c040-4c0b-9e82-7a84c3937d7f)
+
 
 A data-driven personal website
 ======
