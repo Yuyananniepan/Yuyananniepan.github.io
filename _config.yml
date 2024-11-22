@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Yuyan (Annie) Pan, Ph.D."
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Yuyan Pan"
+description              : &description "Connected and Automated Vehicles, Electric Vehicles, Traffic Demand Management"
+url                      : "https://Yuyananniepan.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Yuyan.png"
-  name             : "Yuyan (Annie) Pan, Ph.D."
+  name             : "Yuyan (Annie) Pan"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "State College, US"
