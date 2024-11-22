@@ -11,14 +11,16 @@ Greetings! My name is Yuyan Pan (潘芋燕), and I am a Ph.D. Candidate at Beiji
 Research Interests
 ======
 • Connected and Automated Vehicles, Electric Vehicles, Traffic Demand Management
+
 • Machine Learning Applications in Smart Mobility, Traffic State Estimation and Prediction
+
 • Traffic Flow Theory, Transportation Network Optimization, Dynamic Traffic Assignment
 
 EDUCATION BACKGROUND
 ======
 • Ph.D., Transportation Engineering
 
-Beijing University of Technology, Beijing, China. (Advisors: Dr. [Jifu Guo](https://www.bjtrc.org.cn/Show/index/cid/14/id/21.html), Dr. [Yanyan Chen](https://facte.bjut.edu.cn/info/1176/1970.htm)), 09/2019-10/2023. I've had the privilege of collaborating with Dr. [Xuesong (Simon) Zhou](https://scholar.google.com/citations?user=nHfUCoUAAAAJ&hl=zh-CN) of Arizona State University, who has also served as my auxiliary external advisor. 
+Beijing University of Technology, Beijing, China. (Advisors: Dr. [Jifu Guo](https://www.bjtrc.org.cn/Show/index/cid/14/id/21.html), Dr. [Yanyan Chen](https://facte.bjut.edu.cn/info/1176/1970.htm)), 09/2019-10/2023. I've had the privilege of collaborating with Dr. [Xuesong (Simon) Zhou](https://search.asu.edu/profile/2182101) of Arizona State University, who has also served as my auxiliary external advisor. 
 
 • Dissertation: Cross-resolution bottleneck analysis for dynamic mobility management: integrated parsimaneneous traffic flow fundamentals with data driven approaches
 
@@ -34,7 +36,7 @@ Shandong University of Technology, Zibo, China. (Advisor: Prof. [Junyou Zhang](h
 
 WORK EXPERIENCE
 ======
-• 2024/4~present, Postdoctoral Scholar. Department of Civil and Environmental Engineering, The Pennsylvania State University. University Park, PA (Advisor: Dr. Xianbiao (XB) Hu).
+• 2024/4~present, Postdoctoral Scholar. Department of Civil and Environmental Engineering, The Pennsylvania State University. University Park, PA (Advisor: Dr. Xianbiao (XB) Hu (https://www.larson.psu.edu/directory-detail-g.aspx?q=xzh5180)).
 
 PEER-REVIEWED PUBLICATION
 ======
@@ -68,15 +70,27 @@ CONFERENCE PRESENTATION
 PEER REVIEWER
 ======
 • Transportation Research Part B/C/E
+
 • Transportmetrica B: Transport Dynamics
+
 • Transportation Research Record
+
 • Transportation
+
 • Journal of Advanced Transportation
+
 • Urban Rail Transit
+
 • Multimodal Transportation
+
 • International Journal of Intelligent Systems
+
 • Journal of Highway and Transportation Research and Development
+
 • Complexity
+
 • Ain Shams Engineering Journal
+
 • TRB Annual Meeting and Transportation Research Record (TRB)
+
 • COTA International Conference of Transportation Professionals (CICTP)
