@@ -36,7 +36,7 @@ Shandong University of Technology, Zibo, China. (Advisor: Prof. [Junyou Zhang](h
 
 WORK EXPERIENCE
 ======
-• 2024/4~present, Postdoctoral Scholar. Department of Civil and Environmental Engineering, The Pennsylvania State University. University Park, PA (Advisor: Dr. [Xianbiao (XB) Hu](https://www.larson.psu.edu/directory-detail-g.aspx?q=xzh5180).
+• 2024/4~present, Postdoctoral Scholar. Department of Civil and Environmental Engineering, The Pennsylvania State University. University Park, PA (Advisor: Dr. [Xianbiao (XB) Hu](https://www.larson.psu.edu/directory-detail-g.aspx?q=xzh5180)).
 
 PEER-REVIEWED PUBLICATION
 ======
