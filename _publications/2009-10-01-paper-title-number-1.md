@@ -1,14 +1,19 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+1.	Pan, Y. A., Cheng, Q., Li, A., Zhang, J., Guo, J., & Chen, Y. (2024). Analysis of Congestion Key Parameters, Dynamic Discharge Process, and Capacity Estimation at Urban Freeway Bottlenecks: A Case Study in Beijing, China. Transportation Letters. 
+2.	Pan, Y. A., Li, F., Li, A., Niu, Z., & Cheng, Q. (2024). Urban Intersection Traffic Flow Prediction: A Physics-guided Stepwise Framework Utilizing Spatio-Temporal Graph Neural Network Algorithms. Multimodal Transportation. 
+3.	Li, W., Chen, Y., Pan, Y. A., & Zhang, Y. (2024). An Improved Spatio-Temporal Network Traffic Flow Prediction Method Based on Impedance Matrix. Journal of Highway and Transportation Research and Development. http://doi.org/10.26599/HTRD.2024.9480015
+4.	Zhao, H., Chen, Y., Zhang, B. & Pan, Y. A. (2024). Study on Transit Signal Priority Timing Considering Traffic and Environmental Benefit. Journal of Highway and Transportation Research and Development. http://doi.org/10.3969/j.issn.1002-0268.2024.02.022
+5.	Pan, Y. A., Guo, J., Chen, Y., Cheng, Q., Li, W., & Liu, Y. (2024). A Fundamental Diagram based Hybrid Framework for Traffic Flow Estimation and Prediction by Combining a Markovian Model with Deep Learning. Expert Systems with Applications, 122219. https://doi.org/10.1016/j.eswa.2023.122219
+6.	Pan, Y. A., Zheng, H., Guo, J., & Chen, Y. (2023). Modified Volume-Delay Function Based on Traffic Fundamental Diagram: A Practical Calibration Framework for Estimating Congested and Uncongested Conditions. Journal of Transportation Engineering, Part A: Systems, 149(11), 04023112. https://doi.org/10.1061/JTEPBS.TEENG-790
+7.	Pan, Y., Guo, J., & Chen, Y. (2022). Calibration of Dynamic Volume-delay Functions: A Rolling Horizon-based Parsimonious Modeling Perspective. Transportation Research Record, 2676(2), 606-620. https://doi.org/10.1177/03611981211044727
+8.	Pan, Y. A., Guo, J., Chen, Y., Li, S., & Li, W. (2022). Incorporating Traffic Flow Model into a Deep Learning Method for Traffic State Estimation: A Hybrid Stepwise Modeling Framework. Journal of Advanced Transportation, 2022. https://doi.org/10.1155/2022/5926663
+9.	Pan, Y., Guo, J., Chen, Y., & Xie, J. (2022). Analysis of Urban Expressway Traffic Flow Characteristics Based on Traffic Flow Model: A Case Study of Beijing and Los Angeles. Science Technology & Engineering. 2022, 22(36): 16238-16245.
+10.	Pan, Y., Guo, J., Chen, Y., Zhao, H., & Li, S. (2022). Study on Volume-Delay Function in Oversaturated Condition Based on Fundamental Diagram. Journal of Highway and Transportation Research and Development. Accepted. Unpublished.
+11.	Chen, Y., Li, S., Pan, Y., & Zhang, J. (2022). Urban Expressway Congestion Forewarning Based on Slope Change of Traffic Flow Fundamental Diagram. Journal of Transportation Engineering, Part A: Systems, 148(6), 04022030. https://doi.org/10.1061/jtepbs.0000687
+12.	Chen, Y., Zhao, H., Pan, Y., & Li, S. (2022). Research on Signal Timing Optimization Model Considering Stopping Emissions Based on VISSIM Simulation. In CICTP 2022, 590-600. https://ascelibrary.org/doi/abs/10.1061/9780784484265.056
+13.	Shi, J., Xie, J., Pan, Y., & Li, Y. (2022). Mixed Traffic Flow Simulation Analysis Considering Manual-Automatic Driving on Single Lane Road. Science Technology & Engineering. 2022, 22(28): 12651-12658.
+14.	Tong, L., Pan, Y.*, Shang, P., Guo, J., Xian, K., & Zhou, X. (2019). Open-Source Public Transportation Mobility Simulation Engine DTALite-S: A Discretized Space-Time Network-Based Modeling Framework for Bridging Multi-Agent Simulation and Optimization. Urban Rail Transit, 5, 1-16. https://doi.org/10.1007/s40864-018-0100-x
+
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
