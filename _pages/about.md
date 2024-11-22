@@ -16,7 +16,7 @@ Research Interests
 
 • Traffic Flow Theory, Transportation Network Optimization, Dynamic Traffic Assignment
 
-EDUCATION BACKGROUND
+Education Background
 ======
 • Ph.D., Transportation Engineering
 
@@ -34,11 +34,11 @@ Beijing University of Technology, Beijing, China. (Advisor: Prof. Jianjun Shi), 
 
 Shandong University of Technology, Zibo, China. (Advisor: Prof. [Junyou Zhang](https://jt.sdust.edu.cn/info/1019/1026.htm)), 09/2010-06/2014.
 
-WORK EXPERIENCE
+Work Experience
 ======
 • 2024/4~present, Postdoctoral Scholar. Department of Civil and Environmental Engineering, The Pennsylvania State University. University Park, PA (Advisor: Dr. [Xianbiao (XB) Hu](https://www.larson.psu.edu/directory-detail-g.aspx?q=xzh5180)).
 
-PEER-REVIEWED PUBLICATION
+Peer-Reviewed Publication
 ======
 • Transportation Letters (1 Paper, 1 First-Authored).
 
@@ -60,14 +60,14 @@ PEER-REVIEWED PUBLICATION
 
 See full list here: [Google Scholar](https://scholar.google.com/citations?user=4pjS2hYAAAAJ&hl=zh-CN)
 
-CONFERENCE PRESENTATION
+Conference Presentation
 ======
 1.	Equitable Electric Vehicle Charging: Feasibility and Benefits of Streetlight Charging in Kansas City Right-of-Way. Transportation Research Board 104th Annual Meeting. Washington, DC. January 2025.
 2.	Fundamental Diagram-Consistent Fluid Queue Model for Hyper-Congestion and Dynamic Traffic Flow Characterization. Transportation Research Board 104th Annual Meeting. Washington, DC. January 2025.
 3.	Revisiting BPR Volume Delay Functions: A Space-Time Network-Based Modeling Perspective. Transportation Research Board 100th Annual Meeting. Online Conference. January 2021.
 4.	A Review on Volume-Delay-Functions: Connecting Theoretical Fundamental, Practical Deployment and Emerging Applications. 4th Bridging Transportation Researchers. Online Conference. August 2022.
 
-PEER REVIEWER
+Peer Reviewer
 ======
 • Transportation Research Part B/C/E
 
