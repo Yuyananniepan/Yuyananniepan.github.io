@@ -52,7 +52,7 @@ Peer-Reviewed Publication
 
 • Journal of Advanced Transportation (1 Papers, 1 First-Authored).
 
-• Urban Rail Transit t (1 Papers, 1 Corresponding-Authored).
+• Urban Rail Transit (1 Papers, 1 Corresponding-Authored).
 
 • Science Technology & Engineering (2 Papers, 1 First-Authored).
 
