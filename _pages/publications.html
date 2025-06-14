@@ -5,32 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+PEER-REVIEWED PUBLICATIONS
+1. Pan, Y., Song, Y., Yang, T., Ding, Y., & Hu, X. (2025). Equitable Urban Electric Vehicle Charging: Feasibility and Benefits of Streetlight Charging in Kansas City Right-of-Way. Journal of Urban Planning and Development. 
+2. Pan, Y., Zhang, B., Guo, J., Chen, Y., & Zhao, H. (2025). Road Impedance Function for Oversaturated Traffic State Based on Fundamental Diagram. Journal of Highway and Transportation Research and Development. https://doi.org/10.3969/j.issn.1002-0268.2025.02.001
+3. Li, A., Xu, Z., Li, W., Chen, Y., & Pan, Y*. (2025). Urban Signalized Intersection Traffic State Prediction: A Spatial-Temporal Graph Model Integrating the Cell Transmission Model and Transformer. Applied Sciences. https://doi.org/10.3390/app15052377
+4. Pan, Y., Li, F., Li, A., Niu, Z., & Liu, Z. (2025). Urban Intersection Traffic Flow Prediction: A Physics-guided Stepwise Framework Utilizing Spatio-Temporal Graph Neural Network Algorithms. Multimodal Transportation. https://doi.org/10.1016/j.multra.2025.100207
+5. Pan, Y., Cheng, Q., Li, A., Zhang, J., Guo, J., & Chen, Y. (2024). Analysis of Congestion Key Parameters, Dynamic Discharge Process, and Capacity Estimation at Urban Freeway Bottlenecks: A Case Study in Beijing, China. Transportation Letters. https://doi.org/10.1080/19427867.2024.2404349
+6. Li, W., Chen, Y., Pan, Y., & Zhang, Y. (2024). An Improved Spatio-Temporal Network Traffic Flow Prediction Method Based on Impedance Matrix. Journal of Highway and Transportation Research and Development. http://doi.org/10.26599/HTRD.2024.9480015
+7. Zhao, H., Chen, Y., Zhang, B. & Pan, Y. (2024). Study on Transit Signal Priority Timing Considering Traffic and Environmental Benefit. Journal of Highway and Transportation Research and Development. http://doi.org/10.3969/j.issn.1002-0268.2024.02.022
+8. Pan, Y., Guo, J., Chen, Y., Cheng, Q., Li, W., & Liu, Y. (2024). A Fundamental Diagram based Hybrid Framework for Traffic Flow Estimation and Prediction by Combining a Markovian Model with Deep Learning. Expert Systems with Applications, 122219. https://doi.org/10.1016/j.eswa.2023.122219
+9. Pan, Y., Zheng, H., Guo, J., & Chen, Y. (2023). Modified Volume-Delay Function Based on Traffic Fundamental Diagram: A Practical Calibration Framework for Estimating Congested and Uncongested Conditions. Journal of Transportation Engineering, Part A: Systems, 149(11), 04023112. https://doi.org/10.1061/JTEPBS.TEENG-790
+10. Pan, Y., Guo, J., & Chen, Y. (2022). Calibration of Dynamic Volume-delay Functions: A Rolling Horizon-based Parsimonious Modeling Perspective. Transportation Research Record, 2676(2), 606-620. https://doi.org/10.1177/03611981211044727
+11. Pan, Y., Guo, J., Chen, Y., Li, S., & Li, W. (2022). Incorporating Traffic Flow Model into a Deep Learning Method for Traffic State Estimation: A Hybrid Stepwise Modeling Framework. Journal of Advanced Transportation, 2022. https://doi.org/10.1155/2022/5926663
+12. Pan, Y., Guo, J., Chen, Y., & Xie, J. (2022). Analysis of Urban Expressway Traffic Flow Characteristics Based on Traffic Flow Model: A Case Study of Beijing and Los Angeles. Science Technology & Engineering. 2022, 22(36): 16238-16245.
+13. Chen, Y., Li, S., Pan, Y., & Zhang, J. (2022). Urban Expressway Congestion Forewarning Based on Slope Change of Traffic Flow Fundamental Diagram. Journal of Transportation Engineering, Part A: Systems, 148(6), 04022030. https://doi.org/10.1061/jtepbs.0000687
+14. Chen, Y., Zhao, H., Pan, Y., & Li, S. (2022). Research on Signal Timing Optimization Model Considering Stopping Emissions Based on VISSIM Simulation. In CICTP 2022, 590-600. https://ascelibrary.org/doi/abs/10.1061/9780784484265.056
+15. Shi, J., Xie, J., Pan, Y., & Li, Y. (2022). Mixed Traffic Flow Simulation Analysis Considering Manual-Automatic Driving on Single Lane Road. Science Technology & Engineering. 2022, 22(28): 12651-12658.
+16. Tong, L., Pan, Y.*, Shang, P., Guo, J., Xian, K., & Zhou, X. (2019). Open-Source Public Transportation Mobility Simulation Engine DTALite-S: A Discretized Space-Time Network-Based Modeling Framework for Bridging Multi-Agent Simulation and Optimization. Urban Rail Transit, 5, 1-16. https://doi.org/10.1007/s40864-018-0100-x
 
-{% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
 
 
 
