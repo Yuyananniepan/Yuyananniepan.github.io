@@ -40,6 +40,10 @@ Work Experience
 
 Peer-Reviewed Publication
 ======
+• Journal of Urban Planning and Development (1 Paper, 1 First-Authored).
+
+• Applied Sciences (1 Paper, 1 Corresponding-Authored).
+
 • Transportation Letters (1 Paper, 1 First-Authored).
 
 • Multimodal Transportation (1 Paper, 1 First-Authored).
@@ -94,3 +98,15 @@ Peer Reviewer
 • TRB Annual Meeting and Transportation Research Record (TRB)
 
 • COTA International Conference of Transportation Professionals (CICTP)
+
+Skills
+======
+• Programming: Python, GAMS, OSM2GMNS, Path4GMNS
+
+• Simulation: DTALite, SUMO, VISSIM, TransCAD, Anylogic
+
+• Statistics: SPSS, SQL, Zotero, Overleaf
+
+• Visualization: GIS, QGIS, NeXTA GUI
+
+
