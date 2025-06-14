@@ -32,49 +32,37 @@
   year: 2024
   title: "An Improved Spatio-Temporal Network Traffic Flow Prediction Method Based on Impedance Matrix"
   journal: "Journal of Highway and Transportation Research and Development"
-  doi: "http://doi.org/10.26599/HTRD.2024.9480015
-        
-        "
+  doi: "http://doi.org/10.26599/HTRD.2024.9480015"
 
 - authors: "Zhao, H., Chen, Y., Zhang, B. & Pan, Y."
   year: 2024
   title: "Study on Transit Signal Priority Timing Considering Traffic and Environmental Benefit"
   journal: "Journal of Highway and Transportation Research and Development"
-  doi: "http://doi.org/10.3969/j.issn.1002-0268.2024.02.022
-        
-        "
+  doi: "http://doi.org/10.3969/j.issn.1002-0268.2024.02.022"
 
 - authors: "Pan, Y., Guo, J., Chen, Y., Cheng, Q., Li, W., & Liu, Y."
   year: 2024
   title: "A Fundamental Diagram based Hybrid Framework for Traffic Flow Estimation and Prediction by Combining a Markovian Model with Deep Learning"
   journal: "Expert Systems with Applications, 122219"
-  doi: "https://doi.org/10.1016/j.eswa.2023.122219
-        
-        "
+  doi: "https://doi.org/10.1016/j.eswa.2023.122219"
 
 - authors: "Pan, Y., Zheng, H., Guo, J., & Chen, Y."
   year: 2023
   title: "Modified Volume-Delay Function Based on Traffic Fundamental Diagram: A Practical Calibration Framework for Estimating Congested and Uncongested Conditions"
   journal: "Journal of Transportation Engineering, Part A: Systems, 149(11), 04023112"
-  doi: "https://doi.org/10.1061/JTEPBS.TEENG-790
-        
-        "
+  doi: "https://doi.org/10.1061/JTEPBS.TEENG-790"
 
 - authors: "Pan, Y., Guo, J., & Chen, Y."
   year: 2022
   title: "Calibration of Dynamic Volume-delay Functions: A Rolling Horizon-based Parsimonious Modeling Perspective"
   journal: "Transportation Research Record, 2676(2), 606-620"
-  doi: "https://doi.org/10.1177/03611981211044727
-        
-        "
+  doi: "https://doi.org/10.1177/03611981211044727"
 
 - authors: "Pan, Y., Guo, J., Chen, Y., Li, S., & Li, W."
   year: 2022
   title: "Incorporating Traffic Flow Model into a Deep Learning Method for Traffic State Estimation: A Hybrid Stepwise Modeling Framework"
   journal: "Journal of Advanced Transportation, 2022"
-  doi: "https://doi.org/10.1155/2022/5926663
-        
-        "
+  doi: "https://doi.org/10.1155/2022/5926663"
 
 - authors: "Pan, Y., Guo, J., Chen, Y., & Xie, J."
   year: 2022
@@ -86,17 +74,13 @@
   year: 2022
   title: "Urban Expressway Congestion Forewarning Based on Slope Change of Traffic Flow Fundamental Diagram"
   journal: "Journal of Transportation Engineering, Part A: Systems, 148(6), 04022030"
-  doi: "https://doi.org/10.1061/jtepbs.0000687
-        
-        "
+  doi: "https://doi.org/10.1061/jtepbs.0000687"
 
 - authors: "Chen, Y., Zhao, H., Pan, Y., & Li, S."
   year: 2022
   title: "Research on Signal Timing Optimization Model Considering Stopping Emissions Based on VISSIM Simulation"
   journal: "CICTP 2022, 590-600"
-  doi: "https://ascelibrary.org/doi/abs/10.1061/9780784484265.056
-        
-        "
+  doi: "https://ascelibrary.org/doi/abs/10.1061/9780784484265.056"
 
 - authors: "Shi, J., Xie, J., Pan, Y., & Li, Y."
   year: 2022
@@ -108,6 +92,4 @@
   year: 2019
   title: "Open-Source Public Transportation Mobility Simulation Engine DTALite-S: A Discretized Space-Time Network-Based Modeling Framework for Bridging Multi-Agent Simulation and Optimization"
   journal: "Urban Rail Transit, 5, 1-16"
-  doi: "https://doi.org/10.1007/s40864-018-0100-x
-        
-        "
+  doi: "https://doi.org/10.1007/s40864-018-0100-x"
