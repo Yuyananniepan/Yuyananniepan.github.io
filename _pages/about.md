@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Greetings! My name is Yuyan Pan (潘芋燕), and I am a Postdoctoral Researcher at Pennsylvania State University. My work leverages volume-delay function modeling and calibration, fundamental diagram and queueing theory, traffic demand management, big data and machine learning, electrical vehicle, connected automated vehicle, and open-source transportation modeling software development.
+Greetings! My name is Yuyan Pan (潘芋燕), and I am currently a Postdoctoral Researcher at Pennsylvania State University. My work leverages volume-delay function modeling and calibration, fundamental diagram and queueing theory, traffic demand management, big data and machine learning, electrical vehicle, connected automated vehicle, and open-source transportation modeling software development.
 
 Research Interests
 ======
@@ -20,7 +20,7 @@ Education Background
 ======
 • Ph.D., Transportation Engineering
 
-Beijing University of Technology, Beijing, China. (Advisors: Dr. [Jifu Guo](https://www.bjtrc.org.cn/Show/index/cid/14/id/21.html), Dr. [Yanyan Chen](https://facte.bjut.edu.cn/info/1176/1970.htm)), 09/2019-10/2023. I've had the privilege of collaborating with Dr. [Xuesong (Simon) Zhou](https://search.asu.edu/profile/2182101) of Arizona State University, who has also served as my auxiliary external advisor. 
+Beijing University of Technology, Beijing, China. (Advisors: Dr. [Jifu Guo], Dr. [Yanyan Chen](https://cmt.bjut.edu.cn/info/1127/1119.htm)), 09/2019-10/2023. I've had the privilege of collaborating with Dr. [Xuesong (Simon) Zhou](https://search.asu.edu/profile/2182101) of Arizona State University, who has also served as my auxiliary external advisor. 
 
 • Dissertation: Cross-resolution bottleneck analysis for dynamic mobility management: integrated parsimaneneous traffic flow fundamentals with data driven approaches
 
@@ -32,7 +32,7 @@ Beijing University of Technology, Beijing, China. (Advisor: Prof. Jianjun Shi), 
 
 • B.S., Transportation Engineering
 
-Shandong University of Technology, Zibo, China. (Advisor: Prof. [Junyou Zhang](https://jt.sdust.edu.cn/info/1019/1026.htm)), 09/2010-06/2014.
+Shandong University of Technology, Zibo, China. (Graduation Thesis Advisor: Prof. [Junyou Zhang](https://jt.sdust.edu.cn/info/1019/1026.htm)), 09/2010-06/2014.
 
 Work Experience
 ======
