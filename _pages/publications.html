@@ -8,5 +8,5 @@ author_profile: true
 ## Peer-Reviewed Publications
 
 {% for paper in site.data.publications %}
-{{ forloop.index }}. {{ paper.authors | replace: "Pan, Y.", "**Pan, Y.**" }} ({{ paper.year }}). *{{ paper.title }}*. {{ paper.journal }}.{% if paper.doi %} [DOI Link]({{ paper.doi }}){% endif %}
+{{ forloop.index }}. {{ paper.authors | replace: "Pan, Y.", "**Pan, Y.**" | markdownify }} ({{ paper.year }}). *{{ paper.title }}*. {{ paper.journal }}.{% if paper.doi %} [DOI Link]({{ paper.doi }}){% endif %}
 {% endfor %}
