@@ -5,9 +5,18 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "About Me"
+    url: "/about/"
   - title: "Publications"
     url: "/publications/"
   - title: "Teaching"
-    url: "/Teaching/"  
+    url: "/Teaching/"
+  - title: "Talks"
+    url: "/talks/"
+  - title: "CV"
+    url: "/cv/"
   - title: "Gallery"
     url: "/Gallery/"
+  - title: "Contact"
+    url: "/contact/"
+
