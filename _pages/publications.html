@@ -5,12 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Peer-Reviewed Publications
 
 {% for paper in site.data.publications %}
-<p>
-{{ forloop.index }}. {{ paper.authors | replace: "Pan, Y.", "**Pan, Y.**" }} ({{ paper.year }}). *{{ paper.title }}*. {{ paper.journal }}.{% if paper.doi %} [DOI Link]({{ paper.doi }}){% endif %}
-</p>
+{{ (
+  forloop.index | append: ". " |
+  append: (paper.authors | replace: "Pan, Y.", "**Pan, Y.**") |
+  append: " (" | append: paper.year | append: "). *" |
+  append: paper.title | append: "*. " |
+  append: paper.journal |
+  append: (paper.doi != "" ? " [DOI Link](" | append: paper.doi | append: ")" : "")
+) | markdownify }}
+
+<br>
 {% endfor %}
+
 
 
 
