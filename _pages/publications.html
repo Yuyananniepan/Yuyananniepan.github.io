@@ -8,16 +8,11 @@ author_profile: true
 ## Peer-Reviewed Publications
 
 {% for paper in site.data.publications %}
-{{ (
-  forloop.index | append: ". " |
-  append: (paper.authors | replace: "Pan, Y.", "**Pan, Y.**") |
-  append: " (" | append: paper.year | append: "). *" |
-  append: paper.title | append: "*. " |
-  append: paper.journal |
-  append: (paper.doi != "" ? " [DOI Link](" | append: paper.doi | append: ")" : "")
-) | markdownify }}
-
-<br>
+<p>
+{{ forloop.index }}. {{ paper.authors | replace: "Pan, Y.", "<strong>Pan, Y.</strong>" }} ({{ paper.year }}). 
+<em>{{ paper.title }}</em>. {{ paper.journal }}.
+{% if paper.doi %} <a href="{{ paper.doi }}">DOI Link</a>{% endif %}
+</p>
 {% endfor %}
 
 
