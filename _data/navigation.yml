@@ -11,8 +11,6 @@ main:
     url: "/Teaching/"
   - title: "Talks"
     url: "/talks/"
-  - title: "CV"
-    url: "/cv/"
   - title: "Gallery"
     url: "/Gallery/"
   - title: "Contact"
