@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 {% for paper in site.data.publications %}
+<p>
 {{ forloop.index }}. {{ paper.authors | replace: "Pan, Y.", "**Pan, Y.**" }} ({{ paper.year }}). *{{ paper.title }}*. {{ paper.journal }}.{% if paper.doi %} [DOI Link]({{ paper.doi }}){% endif %}
-<br><br>
+</p>
 {% endfor %}
 
 
