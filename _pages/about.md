@@ -20,7 +20,7 @@ Education Background
 ======
 • Ph.D., Transportation Engineering
 
-Beijing University of Technology, Beijing, China. (Advisors: Dr. Jifu Guo, Dr. [Yanyan Chen](https://cmt.bjut.edu.cn/info/1127/1119.htm)), 09/2019-10/2023. I've had the privilege of collaborating with Dr. [Xuesong (Simon) Zhou](https://search.asu.edu/profile/2182101) of Arizona State University, who has also served as my auxiliary external advisor. 
+Beijing University of Technology, Beijing, China. (Advisors: Dr. Jifu Guo and Dr. [Yanyan Chen](https://cmt.bjut.edu.cn/info/1127/1119.htm)), 09/2019-10/2023. I've had the privilege of collaborating with Dr. [Xuesong (Simon) Zhou](https://search.asu.edu/profile/2182101) of Arizona State University, who has also served as my auxiliary external advisor. 
 
 • Dissertation: Cross-resolution bottleneck analysis for dynamic mobility management: integrated parsimaneneous traffic flow fundamentals with data driven approaches
 
