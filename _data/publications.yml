@@ -10,7 +10,7 @@
   journal: "Journal of Highway and Transportation Research and Development"
   doi: "https://doi.org/10.3969/j.issn.1002-0268.2025.02.001"
 
-- authors: "Li, A., Xu, Z., Li, W., Chen, Y., & Pan, Y*."
+- authors: "Li, A., Xu, Z., Li, W., Chen, Y., & Pan, Y.*"
   year: 2025
   title: "Urban Signalized Intersection Traffic State Prediction: A Spatial-Temporal Graph Model Integrating the Cell Transmission Model and Transformer"
   journal: "Applied Sciences"
