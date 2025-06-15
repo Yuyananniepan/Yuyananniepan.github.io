@@ -7,12 +7,12 @@ author_profile: true
 
 ## Contact Information
 
-- 📧 **Email**: your_email@domain.com
-- 🔬 **Google Scholar**: [Google Scholar Profile](https://scholar.google.com/)
-- 🔗 **ResearchGate**: [ResearchGate Profile](https://www.researchgate.net/)
-- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/)
-- 💻 **GitHub**: [GitHub Profile](https://github.com/)
-- 🟢 **WeChat ID**: wechat_id_here
+- 📧 **Email**: yypan@psu.edu; yuyananniepan@gmail.com
+- 🔗 **ORCID**: [0000-0003-1607-7179](https://orcid.org/0000-0003-1607-7179)
+- 🔬 **Google Scholar**: [Google Scholar](https://scholar.google.com/citations?user=4pjS2hYAAAAJ&hl=zh-CN)
+- 📊 **ResearchGate**: [ResearchGate](https://www.researchgate.net/profile/Yuyan-Pan-2)
+- 💻 **GitHub**: [GitHub](https://github.com/panyuyan)
+- 🟢 **WeChat ID**: panyuyan123123
 
 ---
 
