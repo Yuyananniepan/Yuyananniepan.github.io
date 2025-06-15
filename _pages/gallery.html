@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Gallery"
+permalink: /Gallery/
+author_profile: true
+---
+
+## Gallery
+
+<div class="gallery-grid">
+{% for item in site.data.gallery %}
+  <div class="gallery-item">
+    <img src="{{ item.image }}" alt="Gallery Image" width="300">
+    <p>{{ item.caption }}</p>
+  </div>
+{% endfor %}
+</div>
