@@ -20,4 +20,4 @@ author_profile: true
 
 You may also reach me via WeChat:
 
-![WeChat QR](/images/wechat_qr.jpg)
+<img src="/images/wechat_qr.jpg" alt="WeChat QR" width="200">
