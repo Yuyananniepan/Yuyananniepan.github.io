@@ -64,13 +64,6 @@ Peer-Reviewed Publication
 
 See full list here: [Google Scholar](https://scholar.google.com/citations?user=4pjS2hYAAAAJ&hl=zh-CN)
 
-Conference Presentation
-======
-1.	Equitable Electric Vehicle Charging: Feasibility and Benefits of Streetlight Charging in Kansas City Right-of-Way. Transportation Research Board 104th Annual Meeting. Washington, DC. January 2025.
-2.	Fundamental Diagram-Consistent Fluid Queue Model for Hyper-Congestion and Dynamic Traffic Flow Characterization. Transportation Research Board 104th Annual Meeting. Washington, DC. January 2025.
-3.	Revisiting BPR Volume Delay Functions: A Space-Time Network-Based Modeling Perspective. Transportation Research Board 100th Annual Meeting. Online Conference. January 2021.
-4.	A Review on Volume-Delay-Functions: Connecting Theoretical Fundamental, Practical Deployment and Emerging Applications. 4th Bridging Transportation Researchers. Online Conference. August 2022.
-
 Peer Reviewer
 ======
 • Transportation Research Part B/C/E
