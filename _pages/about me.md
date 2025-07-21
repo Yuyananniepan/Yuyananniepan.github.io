@@ -20,23 +20,25 @@ Education Background
 ======
 • Ph.D., Transportation Engineering
 
-Beijing University of Technology, Beijing, China. (Advisors: Dr. Jifu Guo and Dr. [Yanyan Chen](https://cmt.bjut.edu.cn/info/1127/1119.htm)), 09/2019-10/2023. I've had the privilege of collaborating with Dr. [Xuesong (Simon) Zhou](https://search.asu.edu/profile/2182101) of Arizona State University, who has also served as my auxiliary external advisor. 
+Beijing University of Technology, Beijing, China. 2019-2023.
 
 • Dissertation: Cross-resolution bottleneck analysis for dynamic mobility management: integrated parsimaneneous traffic flow fundamentals with data driven approaches
 
 • M.S., Transportation Engineering
 
-Beijing University of Technology, Beijing, China. (Advisor: Prof. Jianjun Shi), 09/2015-06/2018.
+Beijing University of Technology, Beijing, China. 2015-2018.
 
 • Thesis: Research on autonomous vehicle’s route arrangement problem 
 
 • B.S., Transportation Engineering
 
-Shandong University of Technology, Zibo, China. (Graduation Thesis Advisor: Prof. [Junyou Zhang](https://jt.sdust.edu.cn/info/1019/1026.htm)), 09/2010-06/2014.
+Shandong University of Technology, Zibo, China. 2010-2014.
 
 Work Experience
 ======
-• 2024/4~present, Postdoctoral Scholar. Department of Civil and Environmental Engineering, The Pennsylvania State University. University Park, PA (Advisor: Dr. [Xianbiao (XB) Hu](https://www.larson.psu.edu/directory-detail-g.aspx?q=xzh5180)).
+• 2024/4~2025/7, Postdoctoral Scholar. Department of Civil and Environmental Engineering, Pennsylvania State University.
+
+• 2025/7~present, Postdoctoral Scholar. FAMU-FSU College of Engineering, Florida State University.
 
 Peer-Reviewed Publication
 ======
