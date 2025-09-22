@@ -10,7 +10,7 @@ Greetings! My name is Yuyan Pan (潘芋燕), and I am currently a Postdoctoral R
 
 Research Interests
 ======
-• Connected and Automated Vehicles, Electric Vehicles, Traffic Demand Management
+• Traffic Signal Control, Public Transit, CAVs, EVs, Traffic Demand Management
 
 • Machine Learning Applications in Smart Mobility, Traffic State Estimation and Prediction
 
