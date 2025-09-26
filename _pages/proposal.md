@@ -10,5 +10,3 @@ permalink: /proposal/
   [$2.5 million grant from the U.S. Department of Energy](https://www.energy.gov/eere/vehicles/funding-selections-fiscal-year-2024-technology-integration-funding-program).
 
   This proposal focuses on developing **training programs for emergency responders** who work with **medium- and heavy-duty zero-emission vehicles (MHD ZEVs)**. The project aims to enhance safety, operational readiness, and public confidence in ZEV technology through immersive and interactive training methods.
-
----
