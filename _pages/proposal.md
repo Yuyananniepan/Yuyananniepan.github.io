@@ -4,10 +4,6 @@ title: "Proposal"
 permalink: /proposal/
 ---
 
-## Research Proposals
-
-### ✔️ Funded Proposals
-
 - **$2.5 Million DOE Grant for Emergency Responder Training on MHD ZEVs**
 
   Dr. Yuyan (Annie) Pan served as the **primary proposal writer** and helped **Dr. Xianbiao (XB) Hu** obtain a 
@@ -16,7 +12,3 @@ permalink: /proposal/
   This proposal focuses on developing **training programs for emergency responders** who work with **medium- and heavy-duty zero-emission vehicles (MHD ZEVs)**. The project aims to enhance safety, operational readiness, and public confidence in ZEV technology through immersive and interactive training methods.
 
 ---
-
-### 📝 In Progress / Draft Proposals
-
-_(You can list upcoming or submitted proposals here in the future.)_
