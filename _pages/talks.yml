@@ -2,40 +2,28 @@
   event: "Transportation Research Board 105th Annual Meeting"
   location: "Washington, DC"
   date: "January 2026"
-  year: 2026
-  month_num: 1
 
 - title: "Enhancing Traffic State Estimation at Bottlenecks through Improved Demand Modeling: A Greenshields-Grounded Approach"
   event: "Transportation Research Board 105th Annual Meeting"
   location: "Washington, DC"
   date: "January 2026"
-  year: 2026
-  month_num: 1
 
 - title: "Equitable Electric Vehicle Charging: Feasibility and Benefits of Streetlight Charging in Kansas City Right-of-Way"
   event: "Transportation Research Board 104th Annual Meeting"
   location: "Washington, DC"
   date: "January 2025"
-  year: 2025
-  month_num: 1
 
 - title: "Fundamental Diagram-Consistent Fluid Queue Model for Hyper-Congestion and Dynamic Traffic Flow Characterization"
   event: "Transportation Research Board 104th Annual Meeting"
   location: "Washington, DC"
   date: "January 2025"
-  year: 2025
-  month_num: 1
-
-- title: "A Review on Volume-Delay-Functions: Connecting Theoretical Fundamental, Practical Deployment and Emerging Applications"
-  event: "4th Bridging Transportation Researchers"
-  location: "Online Conference"
-  date: "August 2022"
-  year: 2022
-  month_num: 8
 
 - title: "Revisiting BPR Volume Delay Functions: A Space-Time Network-Based Modeling Perspective"
   event: "Transportation Research Board 100th Annual Meeting"
   location: "Online Conference"
   date: "January 2021"
-  year: 2021
-  month_num: 1
+
+- title: "A Review on Volume-Delay-Functions: Connecting Theoretical Fundamental, Practical Deployment and Emerging Applications"
+  event: "4th Bridging Transportation Researchers"
+  location: "Online Conference"
+  date: "August 2022"
