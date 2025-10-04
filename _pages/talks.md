@@ -5,32 +5,44 @@ permalink: /talks/
 ---
 
 <style>
+.talks-content {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .talk-entry {
   margin-bottom: 2rem;
   padding-bottom: 1rem;
-  border-bottom: 1px solid #e0e0e0;
+  border-bottom: 1px solid #ddd;
 }
+
 .talk-title {
-  font-size: 1.2rem;
   font-weight: bold;
+  font-size: 1.1rem;
   color: #2c3e50;
 }
+
 .talk-event {
-  font-size: 1rem;
   font-weight: 500;
-  color: #34495e;
+  font-size: 1rem;
+  color: #555;
 }
+
 .talk-meta {
   font-size: 0.9rem;
-  color: #7f8c8d;
+  color: #888;
 }
 </style>
 
-{% for talk in site.data.talks %}
-<div class="talk-entry">
-  <div class="talk-title">{{ talk.title }}</div>
-  <div class="talk-event">{{ talk.event }}</div>
-  <div class="talk-meta">{{ talk.location }} | {{ talk.date }}</div>
+<div class="talks-content">
+  {% for talk in site.data.talks %}
+    <div class="talk-entry">
+      <div class="talk-title">{{ talk.title }}</div>
+      <div class="talk-event">{{ talk.event }}</div>
+      <div class="talk-meta">{{ talk.location }} | {{ talk.date }}</div>
+    </div>
+  {% endfor %}
 </div>
-{% endfor %}
-
