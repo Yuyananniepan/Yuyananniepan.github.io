@@ -1,3 +1,8 @@
+- title: "Physics-Guided Hybrid Modeling for Predicting Traffic Throughput Resilience under Asymmetric Bottleneck Recovery Patterns"
+  event: "Transportation Research Board 105th Annual Meeting"
+  location: "Washington, DC"
+  date: !!str "January 2026"
+  
 - title: "Old Models, New Insights: Revisiting Volume-Delay Functions by Integrating Foundational Models, AI, and Emerging Technologies"
   event: "Transportation Research Board 105th Annual Meeting"
   location: "Washington, DC"
@@ -18,12 +23,12 @@
   location: "Washington, DC"
   date: !!str "January 2025"
 
-- title: "Revisiting BPR Volume Delay Functions: A Space-Time Network-Based Modeling Perspective"
-  event: "Transportation Research Board 100th Annual Meeting"
-  location: "Online Conference"
-  date: !!str "January 2021"
-
 - title: "A Review on Volume-Delay-Functions: Connecting Theoretical Fundamental, Practical Deployment and Emerging Applications"
   event: "4th Bridging Transportation Researchers"
   location: "Online Conference"
   date: !!str "August 2022"
+  
+- title: "Revisiting BPR Volume Delay Functions: A Space-Time Network-Based Modeling Perspective"
+  event: "Transportation Research Board 100th Annual Meeting"
+  location: "Online Conference"
+  date: !!str "January 2021"
