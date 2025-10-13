@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-1. **Pan, Y.**, Hu, X., Tang, Q., & Zhou, X. (2025). *Enhancing Traffic State Estimation at Bottlenecks through Improved Demand Modeling: A Greenshields-Grounded Approach.* **Transportation Research Record.**
+1. **Pan, Y.**, Hu, X., Tang, Q., Chen, Y., & Zhou, X. (2025). *Enhancing Traffic State Estimation at Bottlenecks through Improved Demand Modeling: A Greenshields-Grounded Approach.* **Transportation Research Record.**
    
 2. Li, A., Xu, Z., **Pan, Y.**, Zhang, J., Chen, N., Yu, H., Chen, Y., & Li, Y. (2025). *CMTT: A Convolutional Transformer Network for Vehicle Trajectory Prediction in Urban Traffic Scenarios.* **Journal of Transportation Engineering, Part A: Systems.**
 
