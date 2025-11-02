@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+3. **Pan, Y.**, Hu, X., List, G., & Zhou, X. (2025). *A Review of Volume-Delay Functions Integrating Traditional Models and Emerging AI Technologies.* **Communications in Transportation Research.** 
+
 1. **Pan, Y.**, Hu, X., Tang, Q., Chen, Y., & Zhou, X. (2025). *Enhancing Traffic State Estimation at Bottlenecks through Improved Demand Modeling: A Greenshields-Grounded Approach.* **Transportation Research Record.**
    
 2. Li, A., Xu, Z., **Pan, Y.**, Zhang, J., Chen, N., Yu, H., Chen, Y., & Li, Y. (2025). *CMTT: A Convolutional Transformer Network for Vehicle Trajectory Prediction in Urban Traffic Scenarios.* **Journal of Transportation Engineering, Part A: Systems.**
