@@ -38,12 +38,16 @@ Shandong University of Technology, Zibo, China. 2010-2014.
 
 Work Experience
 ======
-• 2024/4~2025/7, Postdoctoral Scholar. Department of Civil and Environmental Engineering, Pennsylvania State University.
-
 • 2025/7~present, Postdoctoral Scholar. FAMU-FSU College of Engineering, Florida State University.
+
+• 2024/4~2025/7, Postdoctoral Scholar. Department of Civil and Environmental Engineering, Pennsylvania State University.
 
 Peer-Reviewed Publication
 ======
+• Communications in Transportation Research (1 Paper, 1 First-Authored).
+
+• IEEE Transactions on Vehicular Technology (1 Paper).
+
 • Journal of Urban Planning and Development (1 Paper, 1 First-Authored).
 
 • Applied Sciences (1 Paper, 1 Corresponding-Authored).
@@ -54,9 +58,9 @@ Peer-Reviewed Publication
 
 • Expert Systems with Applications (1 Paper, 1 First-Authored).
 
-• Transportation Research Record (1 Paper, 1 First-Authored).
+• Transportation Research Record (2 Paper, 2 First-Authored).
 
-• Journal of Transportation Engineering, Part A: Systems (2 Paper, 1 First-Authored).
+• Journal of Transportation Engineering, Part A: Systems (4 Paper, 1 First-Authored).
 
 • Journal of Advanced Transportation (1 Papers, 1 First-Authored).
 
@@ -64,7 +68,7 @@ Peer-Reviewed Publication
 
 • Science Technology & Engineering (2 Papers, 1 First-Authored).
 
-• Journal of Highway and Transportation Research and Development (3 Paper, 1 First-Authored).
+• Journal of Highway and Transportation Research and Development (3 Paper, 2 First-Authored).
 
 See full list here: [Google Scholar](https://scholar.google.com/citations?user=4pjS2hYAAAAJ&hl=zh-CN)
 
