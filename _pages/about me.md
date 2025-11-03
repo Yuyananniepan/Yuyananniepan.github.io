@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Greetings! My name is Yuyan Pan (潘芋燕), it’s pronounced YOU-yen Pan.” 
-I am currently a Postdoctoral Researcher at Florida State University. My work leverages volume-delay function modeling and calibration, fundamental diagram and queueing theory, traffic demand management, big data and machine learning, electric vehicle, connected and automated vehicle, and open-source transportation modeling software development, public transit and signal control.
+Greetings! My name is Yuyan Pan (潘芋燕), it’s pronounced YOU-yen Pan.  
+I am currently a [Postdoctoral Researcher at Florida State University](https://rider.eng.famu.fsu.edu/person/yuyan-pan).  
+My work leverages volume–delay function modeling and calibration, fundamental diagram and queueing theory, traffic demand management, big data and machine learning, electric vehicle, connected and automated vehicle, and open-source transportation modeling software development, on-demand public transit and signal control.
 
 Research Interests
 ======
