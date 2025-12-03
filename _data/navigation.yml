@@ -10,11 +10,12 @@ main:
   - title: "Proposal"
     url: "/proposal/"
   - title: "Teaching"
-    url: "/Teaching/"
+    url: "/teaching/"
   - title: "Talks"
     url: "/talks/"
   - title: "Gallery"
     url: "/gallery/"
   - title: "Contact"
     url: "/contact/"
+
 
