@@ -14,7 +14,7 @@ main:
   - title: "Talks"
     url: "/talks/"
   - title: "Gallery"
-    url: "/Gallery/"
+    url: "/gallery/"
   - title: "Contact"
     url: "/contact/"
 
