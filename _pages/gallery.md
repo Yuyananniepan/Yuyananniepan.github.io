@@ -4,7 +4,6 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
-
 <style>
 /* ======== Gallery Page Styling ======== */
 
