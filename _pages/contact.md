@@ -5,8 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-## Contact Information
-
 - 📧 **Email**: yypan@psu.edu; yuyananniepan@gmail.com; yp25f@fsu.edu
 - 🔗 **ORCID**: [0000-0003-1607-7179](https://orcid.org/0000-0003-1607-7179)
 - 🔬 **Google Scholar**: [Google Scholar](https://scholar.google.com/citations?user=4pjS2hYAAAAJ&hl=zh-CN)
