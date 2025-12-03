@@ -60,27 +60,27 @@ author_profile: true
   <div class="gallery-grid">
 
     <div class="gallery-item">
-      <img src="/images/2025 TRB presentation.jpg" alt="2025 TRB Conference Presentation">
+      <img src="/images/2025-TRB-Presentation.jpg" alt="2025 TRB Conference Presentation">
       <p>2025 TRB Conference Presentation: Equitable Urban EV Charging</p>
     </div>
 
     <div class="gallery-item">
-      <img src="/images/2025 TRB Poster.jpg" alt="2025 TRB Poster FDQ">
+      <img src="/images/2025-TRB-Poster.jpg" alt="2025 TRB Poster FDQ">
       <p>2025 TRB Poster: Fundamental Diagram-Consistent Fluid Queue Model</p>
     </div>
 
     <div class="gallery-item">
-      <img src="/images/2025 TRB.jpg" alt="2025 TRB Meeting">
+      <img src="/images/2025-TRB.jpg" alt="2025 TRB Meeting">
       <p>2025 TRB Meeting</p>
     </div>
 
     <div class="gallery-item">
-      <img src="/images/2023 Doctoral Defense.jpg" alt="2023 Doctoral Defense">
+      <img src="/images/2023-Doctoral-Defense.jpg" alt="2023 Doctoral Defense">
       <p>2023 Doctoral Defense</p>
     </div>
 
     <div class="gallery-item">
-      <img src="/images/2017 International Symposium.jpg" alt="2017 International Symposium">
+      <img src="/images/2017-International-Symposium.jpg" alt="2017 International Symposium">
       <p>2017 International Symposium</p>
     </div>
 
