@@ -53,7 +53,6 @@ permalink: /gallery/
 </style>
 
 <div class="gallery-container">
-  <h1>Gallery</h1>
   <p>Selected highlights from academic events, conferences and professional milestones.</p>
 
   <div class="gallery-grid">
