@@ -4,8 +4,84 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 ---
+<style>
+/* ======== Gallery Page Styling ======== */
 
-# Gallery
+.gallery-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 30px 10px;
+}
 
-TEST PAGE
+/* Responsive grid */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 24px;
+  margin-top: 20px;
+}
 
+/* Each item */
+.gallery-item {
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0px 3px 10px rgba(0,0,0,0.12);
+  padding: 12px;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* Hover animation */
+.gallery-item:hover {
+  transform: translateY(-6px);
+  box-shadow: 0px 10px 20px rgba(0,0,0,0.15);
+}
+
+/* Images */
+.gallery-item img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+/* Caption */
+.gallery-item p {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 10px;
+  line-height: 1.3;
+}
+</style>
+
+<div class="gallery-container">
+  <h1>Gallery</h1>
+  <p>Selected highlights from academic events, conferences and professional milestones.</p>
+
+  <div class="gallery-grid">
+
+    <div class="gallery-item">
+      <img src="/images/2025-TRB-Presentation.jpg" alt="2025 TRB Conference Presentation">
+      <p>2025 TRB Conference Presentation: Equitable Urban EV Charging</p>
+    </div>
+
+    <div class="gallery-item">
+      <img src="/images/2025-TRB-Poster.jpg" alt="2025 TRB Poster FDQ">
+      <p>2025 TRB Poster: Fundamental Diagram-Consistent Fluid Queue Model</p>
+    </div>
+
+    <div class="gallery-item">
+      <img src="/images/2025-TRB.jpg" alt="2025 TRB Meeting">
+      <p>2025 TRB Meeting</p>
+    </div>
+
+    <div class="gallery-item">
+      <img src="/images/2023-Doctoral-Defense.jpg" alt="2023 Doctoral Defense">
+      <p>2023 Doctoral Defense</p>
+    </div>
+
+    <div class="gallery-item">
+      <img src="/images/2017-International-Symposium.jpg" alt="2017 International Symposium">
+      <p>2017 International Symposium</p>
+    </div>
+
+  </div>
+</div>
