@@ -58,6 +58,11 @@ permalink: /gallery/
   <div class="gallery-grid">
 
     <div class="gallery-item">
+      <img src="/images/2026 TRB.jpg" alt="2026 TRB Poster">
+      <p>2026 TRB Conference Presentation: Congestion Demand Estimation</p>
+    </div>
+    
+    <div class="gallery-item">
       <img src="/images/2025-TRB-Presentation.jpg" alt="2025 TRB Conference Presentation">
       <p>2025 TRB Conference Presentation: Equitable Urban EV Charging</p>
     </div>
