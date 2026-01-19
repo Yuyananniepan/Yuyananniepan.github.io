@@ -39,7 +39,10 @@ permalink: /gallery/
 /* Images */
 .gallery-item img {
   width: 100%;
+  height: 220px;        /* 统一高度：你可以改 200 / 240 / 260 */
+  object-fit: cover;    /* 裁切填满，保证所有卡片一致 */
   border-radius: 8px;
+  display: block;
 }
 
 /* Caption */
