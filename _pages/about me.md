@@ -44,37 +44,14 @@ Work Experience
 
 Peer-Reviewed Publication
 ======
-• Communications in Transportation Research (1 Paper, 1 First-Authored).
 
-• IEEE Transactions on Vehicular Technology (1 Paper).
-
-• Journal of Urban Planning and Development (1 Paper, 1 First-Authored).
-
-• Applied Sciences (1 Paper, 1 Corresponding-Authored).
-
-• Transportation Letters (1 Paper, 1 First-Authored).
-
-• Multimodal Transportation (1 Paper, 1 First-Authored).
-
-• Expert Systems with Applications (1 Paper, 1 First-Authored).
-
-• Transportation Research Record (2 Paper, 2 First-Authored).
-
-• Journal of Transportation Engineering, Part A: Systems (4 Paper, 1 First-Authored).
-
-• Journal of Advanced Transportation (1 Papers, 1 First-Authored).
-
-• Urban Rail Transit (1 Papers, 1 Corresponding-Authored).
-
-• Science Technology & Engineering (2 Papers, 1 First-Authored).
-
-• Journal of Highway and Transportation Research and Development (3 Paper, 2 First-Authored).
-
-See full list here: [Google Scholar](https://scholar.google.com/citations?user=4pjS2hYAAAAJ&hl=zh-CN)
+Please See full list here: [Google Scholar](https://scholar.google.com/citations?user=4pjS2hYAAAAJ&hl=zh-CN)
 
 Peer Reviewer
 ======
 • Transportation Research Part B/C/E
+
+• IEEE Transactions on Intelligent Transportation Systems
 
 • Transportmetrica B: Transport Dynamics
 
@@ -90,11 +67,15 @@ Peer Reviewer
 
 • International Journal of Intelligent Systems
 
+• IET Intelligent Transport Systems
+
+• Data Science for Transportation
+
 • Journal of Highway and Transportation Research and Development
 
-• Complexity
+• Smart Cities
 
-• Ain Shams Engineering Journal
+• Transportation Letters: The International Journal of Transportation Research
 
 • TRB Annual Meeting and Transportation Research Record (TRB)
 
