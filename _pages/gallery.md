@@ -62,7 +62,7 @@ permalink: /gallery/
 
     <div class="gallery-item">
       <img src="/images/2026 TRB.jpg" alt="2026 TRB Poster">
-      <p>2026 TRB Conference Presentation: Congestion Demand Estimation</p>
+      <p>2026 TRB Poster: Congestion Demand Estimation</p>
     </div>
     
     <div class="gallery-item">
