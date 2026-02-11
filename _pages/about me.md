@@ -32,10 +32,6 @@ Beijing University of Technology, Beijing, China. 2015-2018.
 
 • Thesis: Research on autonomous vehicle’s route arrangement problem 
 
-• B.S., Transportation Engineering
-
-Shandong University of Technology, Zibo, China. 2010-2014.
-
 Work Experience
 ======
 • 2025/7~present, Postdoctoral Scholar. FAMU-FSU College of Engineering, Florida State University.
@@ -46,6 +42,12 @@ Peer-Reviewed Publication
 ======
 
 Please See full list here: [Google Scholar](https://scholar.google.com/citations?user=4pjS2hYAAAAJ&hl=zh-CN)
+
+Guest Editor
+======
+1. [Symmetry/Asymmetry in Intelligent Transportation System:](https://www.mdpi.com/journal/symmetry/special_issues/K29D12K2C2)
+2. [Next-Generation Intelligent Transportation Systems](https://www.mdpi.com/journal/futureinternet/special_issues/46867W25Z1)
+3. [AI-Enabled Sustainable and Resilient Intelligent Transportation Systems for Smart Cities](https://www.mdpi.com/journal/smartcities/special_issues/734GM8WZVI)
 
 Peer Reviewer
 ======
