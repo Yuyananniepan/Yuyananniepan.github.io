@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Greetings! My name is Yuyan Pan (潘芋燕), it’s pronounced YOU-yen Pan.  
+Greetings! My name is Yuyan Annie Pan (潘芋燕).  
 I am currently a [Research Scientist at FAMU-FSU College of Engineering](https://rider.eng.famu.fsu.edu/person/yuyan-pan), working with [Dr. Qianwen Guo](https://eng.famu.fsu.edu/cee/people/guo) in the [RIDER Center](https://rider.eng.famu.fsu.edu/).
 My work leverages volume–delay function modeling and calibration, fundamental diagram and queueing theory, traffic demand management, big data and machine learning, electric vehicle, connected and automated vehicle, and open-source transportation modeling software development, on-demand public transit and signal control.
 
