@@ -9,8 +9,6 @@ main:
     url: "/publications/"
   - title: "Proposal"
     url: "/proposal/"
-  - title: "Teaching"
-    url: "/teaching/"
   - title: "Talks"
     url: "/talks/"
   - title: "Gallery"
