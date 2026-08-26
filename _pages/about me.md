@@ -7,16 +7,18 @@ redirect_from:
   - /about.html
 ---
 Greetings! My name is Yuyan Annie Pan (潘芋燕).  
-I am currently a [Research Scientist at FAMU-FSU College of Engineering](https://rider.eng.famu.fsu.edu/person/yuyan-pan), working with [Dr. Qianwen Guo](https://eng.famu.fsu.edu/cee/people/guo) in the [RIDER Center](https://rider.eng.famu.fsu.edu/).
+I am currently a Postdoctoral Researcher, working with [Dr. Hany Hassan](https://www.lsu.edu/eng/cee/people/hanyhassan.php) in Louisiana State University.
 My work leverages volume–delay function modeling and calibration, fundamental diagram and queueing theory, traffic demand management, big data and machine learning, electric vehicle, connected and automated vehicle, and open-source transportation modeling software development, on-demand public transit and signal control.
 
 Research Interests
 ======
-• Traffic Signal Control, Public Transit, CAVs, EVs, Traffic Demand Management
+• Intelligent transportaiton system (ITS); connected and automated vehicle (CAV); electric vehicle (EV)
 
-• Machine Learning Applications in Smart Mobility, Traffic State Estimation and Prediction
+• Joint modeling of traffic fundamental diagrams and fluid queue-based models
 
-• Traffic Flow Theory, Transportation Network Optimization, Dynamic Traffic Assignment
+• Physics-informed and machine learning-integrated traffic state prediction methods
+
+• Resilience and recovery mechanism analysis of transportation networks under disaster disturbance
 
 Education Background
 ======
@@ -34,7 +36,9 @@ Beijing University of Technology, Beijing, China. 2015-2018.
 
 Work Experience
 ======
-• 2025/7~present, Postdoctoral Scholar. FAMU-FSU College of Engineering, Florida State University.
+• 2026/8~present, Postdoctoral Scholar. Department of Civil and Environmental Engineering, Louisiana State University.
+
+• 2025/7~2026/8, Postdoctoral Scholar. FAMU-FSU College of Engineering, Florida State University.
 
 • 2024/4~2025/7, Postdoctoral Scholar. Department of Civil and Environmental Engineering, Pennsylvania State University.
 
@@ -48,6 +52,12 @@ Guest Editor
 1. [Symmetry/Asymmetry in Intelligent Transportation System](https://www.mdpi.com/journal/symmetry/special_issues/K29D12K2C2)
 2. [Next-Generation Intelligent Transportation Systems](https://www.mdpi.com/journal/futureinternet/special_issues/46867W25Z1)
 3. [AI-Enabled Sustainable and Resilient Intelligent Transportation Systems for Smart Cities](https://www.mdpi.com/journal/smartcities/special_issues/734GM8WZVI)
+
+Editorial Board Members
+======
+• New Early Career Editorial Board Members of Symmetry
+
+• Editorial Board Member of Discover Cities
 
 Peer Reviewer
 ======
