@@ -18,29 +18,31 @@ Research Interests
 
 • Physics-informed and machine learning-integrated traffic state prediction methods
 
-• Resilience and recovery mechanism analysis of transportation networks under disaster disturbance
+• Transportation networks resilience and vulnerability under hurricane disturbance
+
+• Post-disaster traffic recovery, driving behavior, and road safety
 
 Education Background
 ======
 • Ph.D., Transportation Engineering
 
-Beijing University of Technology, Beijing, China. 2019-2023.
+  Beijing University of Technology, Beijing, China. 2019-2023.
 
 • Dissertation: Cross-resolution bottleneck analysis for dynamic mobility management: integrated parsimaneneous traffic flow fundamentals with data driven approaches
 
 • M.S., Transportation Engineering
 
-Beijing University of Technology, Beijing, China. 2015-2018.
+  Beijing University of Technology, Beijing, China. 2015-2018.
 
 • Thesis: Research on autonomous vehicle’s route arrangement problem 
 
 Work Experience
 ======
-• 2026/8~present, Postdoctoral Scholar. Department of Civil and Environmental Engineering, Louisiana State University.
+• 2026/8~present, Postdoctoral Researcher. Department of Civil and Environmental Engineering, Louisiana State University.
 
-• 2025/7~2026/8, Postdoctoral Scholar. FAMU-FSU College of Engineering, Florida State University.
+• 2025/7~2026/8, Postdoctoral Researcher. FAMU-FSU College of Engineering, Florida State University.
 
-• 2024/4~2025/7, Postdoctoral Scholar. Department of Civil and Environmental Engineering, Pennsylvania State University.
+• 2024/4~2025/7, Postdoctoral Researcher. Department of Civil and Environmental Engineering, Pennsylvania State University.
 
 Peer-Reviewed Publication
 ======
