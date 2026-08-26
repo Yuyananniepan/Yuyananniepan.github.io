@@ -51,9 +51,11 @@ Please See full list here: [Google Scholar](https://scholar.google.com/citations
 
 Guest Editor
 ======
-1. [Symmetry/Asymmetry in Intelligent Transportation System](https://www.mdpi.com/journal/symmetry/special_issues/K29D12K2C2)
-2. [Next-Generation Intelligent Transportation Systems](https://www.mdpi.com/journal/futureinternet/special_issues/46867W25Z1)
-3. [AI-Enabled Sustainable and Resilient Intelligent Transportation Systems for Smart Cities](https://www.mdpi.com/journal/smartcities/special_issues/734GM8WZVI)
+• [Symmetry/Asymmetry in Intelligent Transportation System](https://www.mdpi.com/journal/symmetry/special_issues/K29D12K2C2)
+
+• [Next-Generation Intelligent Transportation Systems](https://www.mdpi.com/journal/futureinternet/special_issues/46867W25Z1)
+
+• [AI-Enabled Sustainable and Resilient Intelligent Transportation Systems for Smart Cities](https://www.mdpi.com/journal/smartcities/special_issues/734GM8WZVI)
 
 Editorial Board Members
 ======
