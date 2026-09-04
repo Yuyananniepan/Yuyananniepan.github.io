@@ -59,7 +59,9 @@ Guest Editor
 
 Editorial Board Members
 ======
-• New Early Career Editorial Board Members of Symmetry
+• Early Career Editorial Board Members of Symmetry
+
+• Early Career Editorial Board Members of Future Internet
 
 • Editorial Board Member of Discover Cities
 
